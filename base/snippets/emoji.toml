@@ -3,15 +3,15 @@ match = "(?i:Bandwidth|expire|流量|时间|应急|过期)"
 emoji = "🏳️‍🌈"
 
 [[emoji]]
-match = "(?i:\\bHK[G]?\\d*\\b|Hong.*?Kong|\\bHKT\\b|\\bHKBN\\b|\\bHGC\\b|\\bWTT\\b|\\bCMI\\b|[^-]港)"
+match = "(?i:\\bHK[G]?\\d*\\b|Hong.*?Kong|HK|\\bHKT\\b|\\bHKBN\\b|\\bHGC\\b|\\bWTT\\b|\\bCMI\\b|[^-]港)"
 emoji = "🇭🇰"
 
 [[emoji]]
-match = "(?i:\\bTW[N]?\\d*\\b|Taiwan|新北|彰化|\\bCHT\\b|台湾|[^-]台|\\bHINET\\b)"
+match = "(?i:\\bTW[N]?\\d*\\b|Taiwan|TW|新北|彰化|\\bCHT\\b|台湾|[^-]台|\\bHINET\\b)"
 emoji = "🇹🇼"
 
 [[emoji]]
-match = "(?i:\\bSG[P]?\\d*\\b|Singapore|新加坡|狮城|[^-]新)"
+match = "(?i:\\bSG[P]?\\d*\\b|Singapore|SG|SIN|新加坡|狮城|[^-]新)"
 emoji = "🇸🇬"
 
 [[emoji]]
@@ -27,7 +27,7 @@ match = "(?i:(?<!North\\s)(\\bK[O]?R\\d*\\b|Korea|首尔|韩|韓))"
 emoji = "🇰🇷"
 
 [[emoji]]
-match = "(?i:\\bUS[A]?\\d*\\b|America|United.*?States|美国|[^-]美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥)"
+match = "(?i:\\bUS[A]?\\d*\\b|America|US|United.*?States|美国|[^-]美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|LA|SF)"
 emoji = "🇺🇸"
 
 [[emoji]]
